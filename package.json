@@ -50,7 +50,8 @@
   },
   "homepage": "https://github.com/Kuatsu/react-native-cloud-storage#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "public": true
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
